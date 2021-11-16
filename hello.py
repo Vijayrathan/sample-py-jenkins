@@ -1,1 +1,1 @@
-print()[D""[Dhello all")
+print("hello all")
